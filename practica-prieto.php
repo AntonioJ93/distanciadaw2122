@@ -17,6 +17,7 @@ declare(strict_types=1);
 *@internal no controla el desbordamiento del float
 */
 function sumar(float $num1,float $num2):float{
+//modifico el archivo añadiendo esta linea
 return $num1+$num2;
 }
 
